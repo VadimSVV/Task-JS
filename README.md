@@ -1,3 +1,3 @@
 Расчет дневного бюджета
 
-Запустить: https://VadimSVV.github.io/Task-JS
+Запустить: https://VadimSVV.github.io/Task-JS/final
